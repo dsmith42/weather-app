@@ -1,3 +1,3 @@
 # WeatherApp
 
-A project to learn some foundational SwiftUI and practice building UI
+A project to learn some foundational SwiftUI and practice building UI.
